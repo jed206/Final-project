@@ -33,6 +33,9 @@ img:hover {
    
 }
 
+img {
+	border-radius: 50%;
+
 /*
 			4 states a link can be in:
 			1-a or a:link --> normal state of an unvisited
