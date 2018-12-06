@@ -36,12 +36,5 @@ img:hover {
 img {
 	border-radius: 50%;
 
-/*
-			4 states a link can be in:
-			1-a or a:link --> normal state of an unvisited
-			2-a:visited --> visited link
-			3-a:hover --> when you're resting your mouse pointer over a link
-			4-a:active --> when you're actively clicking a link
-			*/
-			
+
 			}
