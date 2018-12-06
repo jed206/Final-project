@@ -1,0 +1,44 @@
+.topnav {
+  overflow: hidden;
+  background-color: lightgray;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.topnav a:hover {
+  background-color: darkgray;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: gray;
+  color: black;
+}
+
+img {
+  transition: filter .5s ease-in-out;
+  -webkit-filter: grayscale(0%); 
+  filter: grayscale(0%);
+}
+img:hover {
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+   
+}
+
+/*
+			4 states a link can be in:
+			1-a or a:link --> normal state of an unvisited
+			2-a:visited --> visited link
+			3-a:hover --> when you're resting your mouse pointer over a link
+			4-a:active --> when you're actively clicking a link
+			*/
+			
+			}
