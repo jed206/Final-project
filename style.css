@@ -22,7 +22,7 @@
   color: black;
 }
 
-img {
+/* img {
   transition: filter .5s ease-in-out;
   -webkit-filter: grayscale(0%); 
   filter: grayscale(0%);
@@ -32,7 +32,7 @@ img:hover {
   filter: grayscale(100%);
    
 }
-
+*/
 img {
 	border-radius: 50%;
 			}
