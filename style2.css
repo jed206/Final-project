@@ -21,15 +21,6 @@
   background-color: gray;
   color: black;
 }
-
-/* img {
-  transition: filter .5s ease-in-out;
-  -webkit-filter: grayscale(0%); 
-  filter: grayscale(0%);
-}
-img:hover {
-  -webkit-filter: grayscale(100%); 
-  filter: grayscale(100%);
    
 }
 */
@@ -38,6 +29,7 @@ img {
 			}
 
 /* 
+SOURCES!!
 navigation bar source: https://www.w3schools.com/howto/howto_js_topnav.asp
 hover source: https://stackoverflow.com/questions/9782328/how-to-put-hover-on-img-src-tag
 */
