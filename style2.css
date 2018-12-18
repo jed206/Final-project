@@ -21,9 +21,7 @@
   background-color: gray;
   color: black;
 }
-   
-}
-*/
+  
 img {
 	border-radius: 50%;
 			}
@@ -31,5 +29,5 @@ img {
 /* 
 SOURCES!!
 navigation bar source: https://www.w3schools.com/howto/howto_js_topnav.asp
-hover source: https://stackoverflow.com/questions/9782328/how-to-put-hover-on-img-src-tag
+change pic on hover source: https://stackoverflow.com/questions/9782328/how-to-put-hover-on-img-src-tag
 */
